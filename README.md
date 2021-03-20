@@ -3,9 +3,11 @@
 ## To start the client react app:
 
 ### `cd client`
-### `yarn start`
+
+### `npm run watch`
 
 ## To start the server:
 
 ### `cd server`
+
 ### `nodemon index`

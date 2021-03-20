@@ -1,10 +1,7 @@
-import './App.css';
-import React, { Fragment } from 'react';
+import React from "react";
 
 function App() {
-  return (
-    <Fragment>Swapsies Redux</Fragment>
-  );
+	return <div className="App">Swapsies</div>;
 }
 
 export default App;
