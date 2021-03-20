@@ -10,4 +10,4 @@
 
 ### `cd server`
 
-### `nodemon index`
+### `npm run server`
