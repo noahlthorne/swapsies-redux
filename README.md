@@ -4,7 +4,7 @@
 
 ### `cd client`
 
-### `npm run watch`
+### `npm start`
 
 ## To start the server:
 
